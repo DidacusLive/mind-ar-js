@@ -33,7 +33,6 @@
     "@msgpack/msgpack": "^2.8.0",
     "@tensorflow/tfjs": "^4.16.0",
     "@vitejs/plugin-basic-ssl": "^1.1.0",
-    "canvas": "^2.10.2",
     "mathjs": "^11.6.0",
     "ml-matrix": "^6.10.4",
     "svd-js": "^1.1.1",
