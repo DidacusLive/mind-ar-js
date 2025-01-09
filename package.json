@@ -3,6 +3,7 @@
   "version": "1.2.6",
   "description": "web augmented reality framework",
   "main": "index.js",
+  "author": "Didacus didacus@futuragames.co.uk",
   "scripts": {
     "dev": "vite --config vite.config.dev.js --host",
     "watch": "vite build --watch --config vite.config.dev.js",
