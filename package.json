@@ -1,9 +1,8 @@
 {
   "name": "mind-ar-custom-nocanvas",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "web augmented reality framework",
   "main": "index.js",
-  "author": "Didacus <diego@kineticapps.co.uk> (https://www.futuragames.co.uk)",
   "scripts": {
     "dev": "vite --config vite.config.dev.js --host",
     "watch": "vite build --watch --config vite.config.dev.js",
