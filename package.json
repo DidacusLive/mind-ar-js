@@ -1,5 +1,5 @@
 {
-  "name": "mind-ar",
+  "name": "mind-ar-custom-nocanvas",
   "version": "1.2.5",
   "description": "web augmented reality framework",
   "main": "index.js",
